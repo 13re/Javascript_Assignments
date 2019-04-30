@@ -56,7 +56,7 @@ line(220, 115, 235, 107);
 line(190, 140, 210, 139);
 
 /* new things learned:
-Computers remeber things better than we do. 
+Computers remember things better than we do. 
 We can use Documentations like a dictionary to look up what we don't remember. 
 Great programmers don't try to memorize everything. 
 Great programmers are the best at using documentation. 
