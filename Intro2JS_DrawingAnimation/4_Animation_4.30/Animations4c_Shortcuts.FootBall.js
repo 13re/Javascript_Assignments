@@ -9,7 +9,7 @@ When using a variable for every parameter, we can animate every aspect of a shap
 ballWidth = ballWidth * 99/100; makes the width 99% in size each frame. 
 
 Programmers don't like to do more work than necessary, so we create shortcuts. 
-x = x + 1; is the same as x += 1;
+"x++;" is the same at "x += 1;" is the same as "x = x + 1;"
 */
 
 
@@ -31,7 +31,7 @@ draw = function() {
     fill(239, 247, 247); // COLOR: WHITE-ish
     rect(0, y + 200, 400, y * 1.2);
     
-    y += 1;
+    y++; // same as "y += 1;" or "y = y + 1;"
     if(y > 200){y = 1;}
     
     // Brown outer-line of football
@@ -72,7 +72,7 @@ draw = function() {
     
     //SPIN (football animation stop)
     popMatrix();
-    rotate1 += 1;
+    rotate1++; // same as "rotate1 += 1;"" or "rotate1 = rotate1 + 1;""
     
 };
 
