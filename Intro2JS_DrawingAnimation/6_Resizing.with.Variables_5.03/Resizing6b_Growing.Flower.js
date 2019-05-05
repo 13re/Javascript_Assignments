@@ -13,15 +13,16 @@ Next, make all relative shapes resize with the main shape by making them fractio
 */
 
 // Growing Flower
+// all shapes change proportionately
 
 var flowerSize = 100;
 
 var xPos = 200;
 var yPos = 200;
 
-var leafSize = 7/20 * flowerSize;
-var centerSize = 2/5 * flowerSize;
-var petalSize = 1/4 * flowerSize;
+var leafSize = 7/20 * flowerSize; // leafSize is dependent on flowerSize
+var centerSize = 2/5 * flowerSize; // centerSize is dependent on flowerSize
+var petalSize = 1/4 * flowerSize; // petalSize is dependent of flowerSize
 
 //stems
 stroke(47, 158, 69);
