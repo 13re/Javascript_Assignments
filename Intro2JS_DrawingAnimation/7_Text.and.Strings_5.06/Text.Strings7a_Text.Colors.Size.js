@@ -1,5 +1,6 @@
-/* text("hello, 30, 40); 
-Meed quotation marks around text, otherwise program may think it's a variable & will get error message. 
+/* Notes:
+text("hello, 30, 40); 
+Need quotation marks around text, otherwise program may think it's a variable & will get error message. 
 
 If text is not visible, it might be same color as background... 
 Either change background color or change fill color.   
