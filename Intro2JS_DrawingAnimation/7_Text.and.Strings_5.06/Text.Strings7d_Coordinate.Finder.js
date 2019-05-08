@@ -12,3 +12,4 @@ draw = function() {
 
 // result: https://youtu.be/gqRsxL7P1jY
 // lesson: https://www.khanacademy.org/computing/computer-programming/programming/text-basics/pc/challenge-mouse-tracker
+// lesson: https://www.khanacademy.org/computing/computer-programming/programming/text-basics/a/review-text-and-strings
