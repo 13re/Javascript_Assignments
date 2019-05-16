@@ -1,5 +1,19 @@
 // Local and Global Variables 
 
+/* Notes: (in own words)
+    a function called within a function is a local variable. 
+    To make it global, it must not be a function child when declared. 
+
+    The "global scope" is the far left tab that is 
+    outside of all functions (not a child of any function). 
+    
+    We can declare a global function then call it within another function 
+    rather than declaring the function within another function (local). 
+
+    A local function can only be used within the parent function,
+    a glocal function can be used by all other functions within the program. 
+*/
+
 // Hours of monthly ramp time
 
 var totalRampHours = 0; // both months in total
