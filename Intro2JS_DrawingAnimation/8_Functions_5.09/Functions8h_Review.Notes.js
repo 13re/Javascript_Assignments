@@ -105,8 +105,9 @@ Function
         return localResult;
     };
 
-    add Numbers(5, 7);
+    addNumbers(5, 7);
     println(localResult); // this line will get an error "localResult is not defined."
+
     The variable is only defined inside the function, because that's where we declared it with the var localResult = line, 
     and is not defined outside of the function.
     
