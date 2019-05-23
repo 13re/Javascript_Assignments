@@ -3,8 +3,10 @@
 /* NOTES
 
 while loop
+    // used when you don't know how many times to repeat code
     a way to repeat code until some condition is false
 for loop
+    // used when you know how many times to repeat code
     = similar to a while loop, but w/ more specialized syntax
     Programmers invented after repetition of doing the same 3 things:
         creating loop counter variables
