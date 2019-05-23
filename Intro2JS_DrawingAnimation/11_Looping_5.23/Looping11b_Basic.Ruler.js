@@ -3,7 +3,7 @@
 
 fill(17, 0, 255);
 
-var x = 0;
+var x = 0; // initializes the variable
 while (x < 400) { // how long to repeat
     text(x, x, 10); // what to repeat
     x += 50; // what to change each time
