@@ -59,6 +59,5 @@ if (integer === 1) {
     ellipse(225, 225, 15, 15); // bottom right
 }
 
-// result: https://embed.vidyard.com/share/n5ThQ2QA5VtF15oZ6su35e?
-// download video: https://cdn.vidyard.com/videos/WTQWVDbnSG-r7YCBYCpPSg/sd.mp4?3xhFWHJ4UHMS_5Jxx1jNN4O3vNwk7tirN8GDQJhzcVpQ4K90rbUy18lH_OcNtDI3MoxRGxOF5HkMqgm5Y2-bXzW3qDdxRokhRdAPahE0zxucwm88pZzAImY4innAyNppN2TPpINVVrg
+// result: https://youtu.be/IyPH6x2Uwog
 // lesson: https://www.khanacademy.org/computing/computer-programming/programming/logic-if-statements/pt/ifelse-part-2

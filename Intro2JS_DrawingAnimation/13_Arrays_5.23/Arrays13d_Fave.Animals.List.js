@@ -23,3 +23,6 @@ while(numAnimal < favAnimals.length){
     text((numAnimal + 1) + ". " + favAnimals[numAnimal], 200, 100+numAnimal*50);
     numAnimal++;
 }
+
+// result: https://i.imgur.com/8N7dFAV.png
+// lesson: https://www.khanacademy.org/computing/computer-programming/programming/arrays/pc/challenge-favorite-animals
