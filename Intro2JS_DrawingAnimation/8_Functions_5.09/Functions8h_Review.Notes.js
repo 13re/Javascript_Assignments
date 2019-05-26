@@ -18,7 +18,7 @@ Function
 
     We can call functions whenever we want + however many times we want. 
 
-    Functions should be customizable. We want code tht is both reusable and flexible. 
+    Functions should be customizable. We want code that is both reusable and flexible. 
     Ability to tell program " Do all this code, but change a few things about how you do it."
     We can achieve flexibility & reusability by specifying "arguments" for a function, 
     using those arguments to change how the function works, 
@@ -38,7 +38,7 @@ Function
         text("Hi!!, x, y");
     };
 
-    Functions can accept any number of arguments - zero, on, two, more.
+    Functions can accept any number of arguments - zero, one, two, more.
     We could also have our function accept a name to say hi to:
 
     var sayHi = function(name){
