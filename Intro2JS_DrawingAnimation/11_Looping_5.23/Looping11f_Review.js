@@ -13,11 +13,11 @@ for loop
         incrementing them by some amount
         checking that they're less than a value
 infinite loop
-    when the condition iside the parentesis is always true within a loop
+    when the condition inside the parenthesis is always true within a loop
     Loops forever - program never knows when to stop. 
 
 nested loops
     nesting a loop inside another loop
-    Tells program "do this thing X many times, and for each time you do that, also do this other thing Y many time."
+    Tells program "do this thing X many times, and for each time you do that, also do this other thing Y many times."
     ex: grids    
 */

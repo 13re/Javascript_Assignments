@@ -20,7 +20,7 @@ arrayName.length
     the length property will tell us the current length of the array.
     text(myFriends.length, 200, 200); // Displays "4"
 index
-    the position to reference/acceess a particular value in an array which
+    the position to reference/access a particular value in an array 
     text(myFriends[0], 200, 0); // Displays "Billy"
 zero-based indexing
     *index numbers start at 0: [0, 1, 2, 3]
