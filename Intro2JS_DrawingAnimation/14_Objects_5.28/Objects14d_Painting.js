@@ -19,5 +19,5 @@ mouseMoved = function() {
     paintCanvas();
 };
 
-// result: https://youtu.be/cY0uR0BCQL4
+// result: https://youtu.be/t3DKsIT4EBk
 // lesson: https://www.khanacademy.org/computing/computer-programming/programming/programming/objects/pc/challenge-picture-painter

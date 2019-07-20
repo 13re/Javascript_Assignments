@@ -17,5 +17,5 @@ draw = function() {
     }
 };
 
-// result: https://youtu.be/gjQxvo8zmpc
+// result: https://youtu.be/rZ5ZYZU4DRc
 // lesson: https://www.khanacademy.org/computing/computer-programming/programming/logic-if-statements/pc/challenge-flashy-flash-card

@@ -30,5 +30,5 @@ draw = function() {
     rainDrop();
 };
     
-// result: https://youtu.be/bmiaQVdEgaM
+// result: https://youtu.be/yUnTd7ENMXc
 // lesson: https://www.khanacademy.org/computing/computer-programming/programming/functions/pt/function-parameters

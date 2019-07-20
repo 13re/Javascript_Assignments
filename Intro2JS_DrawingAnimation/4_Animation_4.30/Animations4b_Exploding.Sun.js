@@ -15,5 +15,5 @@ draw = function() {
     sunSize = sunSize + 1;
 };
 
-// result: https://youtu.be/HTkXAHIdoSA
+// result: https://www.youtube.com/watch?v=tMHwmNioAYw
 // lesson: https://www.khanacademy.org/computing/computer-programming/programming/animation-basics/pc/challenge-exploding-sun

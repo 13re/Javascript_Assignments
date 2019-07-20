@@ -14,5 +14,5 @@ draw = function() {
     text("Click to turn Red", 100, 115);
 };
 
-// result: https://youtu.be/A8hg7nLwVHQ
+// result: https://youtu.be/pL_tPY5LN9c
 // lesson: https://www.khanacademy.org/computing/computer-programming/programming/logic-if-statements/pc/challenge-your-first-button

@@ -28,5 +28,5 @@ draw = function(){
     }
 };
 
-// result: https://youtu.be/CdGu15cFJP0
+// result: https://youtu.be/ZR4YxDO9yRg
 // lesson: https://www.khanacademy.org/computing/computer-programming/programming/logic-if-statements/pc/challenge-your-first-painting-app

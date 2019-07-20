@@ -28,5 +28,5 @@ mouseClicked = function() {
         drawStars();
 };
 
-// result: https://www.youtube.com/watch?v=aaQPi4tKS1g
+// result: https://youtu.be/Pk0ASBcX7As
 // lesson: https://www.khanacademy.org/computing/computer-programming/programming/arrays/pc/challenge-constellation-maker

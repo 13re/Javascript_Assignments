@@ -94,5 +94,5 @@ draw = function() {
     
 };
 
-// result: https://youtu.be/9sSdlbs85nI
+// result: https://youtu.be/7V9waKCoR-M
 // lesson: https://www.khanacademy.org/computing/computer-programming/programming/resizing-with-variables/pp/project-animal-attack#projecthelp

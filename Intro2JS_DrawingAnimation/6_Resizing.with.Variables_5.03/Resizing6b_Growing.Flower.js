@@ -60,5 +60,5 @@ ellipse(xPos + 7/40 * flowerSize, yPos - 31/40 * flowerSize, petalSize, petalSiz
 ellipse(xPos - 7/40 * flowerSize, yPos - 31/40 * flowerSize, petalSize, petalSize); // NW petal
 ellipse(xPos - 7/40 * flowerSize, yPos - 17/40 * flowerSize, petalSize, petalSize); // SW petal
 
-// result: https://youtu.be/yq6aHkbtIBY
+// result: https://youtu.be/6vkeLPadYao
 // lesson: https://www.khanacademy.org/computing/computer-programming/programming/resizing-with-variables/pt/resizing-shapes-with-variable-expressions

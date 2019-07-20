@@ -7,5 +7,5 @@ draw = function() {
     ellipse(mouseX, mouseY, 20, 20);
 };
 
-// result: https://youtu.be/_8sPcrX25Qo
+// result: https://youtu.be/pwC1OUzoXMc
 // lesson: https://www.khanacademy.org/computing/computer-programming/programming/interactive-programs/pc/challenge-mouse-movement-mania

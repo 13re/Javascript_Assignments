@@ -76,7 +76,7 @@ draw = function() {
     
 };
 
-// result: https://youtu.be/J2GcOLjrO3E
+// result: https://youtu.be/7x8XOly3S8U
 // lesson: https://www.khanacademy.org/computing/computer-programming/programming/animation-basics/pt/incrementing-shortcuts
 
 /* additional learning resources:

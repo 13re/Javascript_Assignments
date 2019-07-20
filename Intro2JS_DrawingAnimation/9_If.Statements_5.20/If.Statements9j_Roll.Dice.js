@@ -59,5 +59,5 @@ if (integer === 1) {
     ellipse(225, 225, 15, 15); // bottom right
 }
 
-// result: https://youtu.be/IyPH6x2Uwog
+// result: https://youtu.be/--G6TODf1Jk
 // lesson: https://www.khanacademy.org/computing/computer-programming/programming/logic-if-statements/pt/ifelse-part-2

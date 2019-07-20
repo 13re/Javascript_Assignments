@@ -54,5 +54,5 @@ draw = function() {
     }
 };
 
-// result: https://youtu.be/yDrpTYvCtAs 
+// result: https://youtu.be/_9H24NPTOJU 
 // lesson: https://www.khanacademy.org/computer-programming/spin-off-of-project-make-it-rain/4545077734375424

@@ -15,5 +15,5 @@ draw = function() {
     text("Click Here!", 100, 150);
 };
 
-// result: https://youtu.be/xrmtAjxiflg
+// result: https://youtu.be/zv81Fs3r754
 // lesson: https://www.khanacademy.org/computing/computer-programming/programming/logic-if-statements/pc/challenge-smarter-button

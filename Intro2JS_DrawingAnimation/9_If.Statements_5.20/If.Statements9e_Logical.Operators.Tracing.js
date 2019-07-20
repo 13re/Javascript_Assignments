@@ -34,5 +34,5 @@ draw = function() {
     }
 };
 
-// result: https://youtu.be/zv1ZkkgY1-o
+// result: https://youtu.be/II8Y0PxSGP0
 // lesson: https://www.khanacademy.org/computing/computer-programming/programming/logic-if-statements/pt/logical-operators

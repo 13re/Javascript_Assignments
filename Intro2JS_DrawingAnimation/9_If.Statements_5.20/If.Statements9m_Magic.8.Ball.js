@@ -26,5 +26,5 @@ if (answer === 0) {
     text("DO IT", 180, 215);
 }
 
-// result: https://youtu.be/S02nQLx36_Q
+// result: https://youtu.be/5BFbOVvMf2A
 // lesson: https://www.khanacademy.org/computing/computer-programming/programming/logic-if-statements/pp/project-magic-8-ball

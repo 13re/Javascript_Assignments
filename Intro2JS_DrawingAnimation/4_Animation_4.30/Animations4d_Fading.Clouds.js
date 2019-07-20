@@ -40,5 +40,5 @@ draw = function() {
     
 };
 
-result: https://youtu.be/Pss7nzM0RzU
-lesson: https://www.khanacademy.org/computing/computer-programming/programming/animation-basics/pc/challenge-parting-clouds
+// result: https://youtu.be/bFijWOTj4ZY
+// lesson: https://www.khanacademy.org/computing/computer-programming/programming/animation-basics/pc/challenge-parting-clouds

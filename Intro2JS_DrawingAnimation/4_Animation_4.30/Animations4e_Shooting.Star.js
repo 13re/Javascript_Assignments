@@ -84,5 +84,5 @@ draw = function() {
 
 };
 
-// result: https://youtu.be/7Ef_6xCKWds 
+// result: https://youtu.be/0vqXE1f94nw
 // lesson: https://www.khanacademy.org/computing/computer-programming/programming/animation-basics/pp/project-shooting-star

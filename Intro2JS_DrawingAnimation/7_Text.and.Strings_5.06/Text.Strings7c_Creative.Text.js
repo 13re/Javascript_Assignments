@@ -26,5 +26,5 @@ var draw = function() {
     text(extraText, mouseX + 5, mouseY -10);
 };
 
-// result: https://youtu.be/DS3T67TTjhY
+// result: https://youtu.be/T239UMP01ak
 // lesson: https://www.khanacademy.org/computing/computer-programming/programming/text-basics/pt/terrific-text-part-two

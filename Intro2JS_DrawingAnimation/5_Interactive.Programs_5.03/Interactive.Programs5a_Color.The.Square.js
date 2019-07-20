@@ -25,5 +25,5 @@ draw = function() {
     
 };
 
-// result: https://youtu.be/xtpqQtWtwdw
+// result: https://youtu.be/2qUkUqxBlFs
 // lesson: https://www.khanacademy.org/computing/computer-programming/programming/interactive-programs/pt/mouse-interaction

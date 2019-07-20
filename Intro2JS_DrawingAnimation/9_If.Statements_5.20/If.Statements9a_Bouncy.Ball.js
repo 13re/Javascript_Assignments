@@ -25,5 +25,5 @@ draw = function() {
     if(y < 25){speed = 4;} // top direction change
 };
 
-// result: https://youtu.be/xzC92TypSvQ
+// result: https://youtu.be/20KZ96i-nOY
 // lesson: https://www.khanacademy.org/computing/computer-programming/programming/logic-if-statements/pc/challenge-bouncy-ball

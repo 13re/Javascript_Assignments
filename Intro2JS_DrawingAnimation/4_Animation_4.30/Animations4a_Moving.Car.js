@@ -74,5 +74,5 @@ draw = function() {
 
 };
 
-// result: https://youtu.be/i2JYELCghFc
+// result: https://youtu.be/I46d7AuFyTw
 // lesson: https://www.khanacademy.org/computing/computer-programming/programming/animation-basics/pt/making-animations

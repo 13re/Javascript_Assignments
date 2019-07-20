@@ -51,5 +51,5 @@ if (integer === 0) {
     rect(220, 200, 5, 15);
 }
 
-// result: https://youtu.be/pfye7rx53x0
+// result: https://youtu.be/SDzUv0OanNc
 // lesson: https://www.khanacademy.org/computer-programming/coin-flip/6223775340527616

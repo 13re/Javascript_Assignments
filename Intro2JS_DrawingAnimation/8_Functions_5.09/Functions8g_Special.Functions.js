@@ -30,5 +30,5 @@ mouseDragged = function() {
 
 // More pre-defined functions can be found in the documentation. 
 
-// result: https://youtu.be/U3xut22OLPw
+// result: https://youtu.be/gS2NMuWSSvw
 // lesson: https://www.khanacademy.org/computing/computer-programming/programming/functions/pt/special-processingjs-functions

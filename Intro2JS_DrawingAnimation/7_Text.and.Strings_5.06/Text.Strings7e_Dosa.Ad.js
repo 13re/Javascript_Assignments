@@ -64,5 +64,5 @@ ellipse(200, 200, 200, 100); // top of stack
 
 };
 
-// result: https://youtu.be/EKF7kGq_slU
+// result: https://youtu.be/8Xf8Tkzj0hY
 // lesson: https://www.khanacademy.org/computing/computer-programming/programming/text-basics/pp/project-ad-design

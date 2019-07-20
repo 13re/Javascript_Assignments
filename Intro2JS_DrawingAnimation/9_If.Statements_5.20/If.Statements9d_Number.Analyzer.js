@@ -33,5 +33,5 @@ if (theNumber < 0){rect(5, 110, 200, 40);}
 if (theNumber === 0){rect(5, 160, 200, 40);}
 
 
-// result: https://youtu.be/SLVAktAoDY8
+// result: https://youtu.be/vFP31libMc4
 // lesson: https://www.khanacademy.org/computing/computer-programming/programming/logic-if-statements/pc/challenge-number-analyzer
